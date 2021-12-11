@@ -1,0 +1,13 @@
+{
+"mode": "right",
+"flip_images": "no",
+"image_size": 1500,
+"white_thresold": 0.06,
+"main_spacer": 40,
+"thumbnail_spacer": 10,
+"thumbnail_size": 240,
+"thumbnail_pos": 1250,
+"dot_scale": 0.25,
+"dot_image": "dots_grey.jpg",
+"image_ending": "-1.jpg"
+}
