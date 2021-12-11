@@ -1,4 +1,4 @@
-# startimage-with-thumbnails
+# Generate startimages with thumbnails
 
 If you have a product images with variants, this tool can generate a startimage, where you show one product and the variants as thumbnails also. Like this
 
