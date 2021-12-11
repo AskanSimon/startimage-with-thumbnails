@@ -2,11 +2,11 @@
 
 If you have a product images with variants, this tool can generate a startimage, where you show one product and the variants as thumbnails also. Like this
 
-![alt text](https://github.com/AskanSimon/startimage-with-thumbnails/output.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/AskanSimon/startimage-with-thumbnails/main/output.jpg)
 
 The format can be changed in the *.json file. 
 
-![alt text](https://github.com/AskanSimon/startimage-with-thumbnails/config.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/AskanSimon/startimage-with-thumbnails/main/config.jpg)
 
 ### Usage
 
