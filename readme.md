@@ -1,6 +1,6 @@
 # Generate startimages with thumbnails
 
-If you have a product images with variants, this tool can generate a startimage, where you show one product and the variants as thumbnails also. Like this
+If you have product images with variants, this tool will generate a startimage, with one big product and variants as small thumbnails also. Like this
 
 ![alt text](https://raw.githubusercontent.com/AskanSimon/startimage-with-thumbnails/main/output.jpg)
 
